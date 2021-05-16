@@ -1,0 +1,100 @@
+h1, h3{
+	font-family: Courier new, monospace;
+	font-weight: bold;
+	text-align: center;
+}
+
+h5{
+	font-family: Courier new, monospace;
+	font-weight: bold;
+	text-align: center;
+}
+
+.client{
+	background-color: #D6FFBE;
+}
+
+.im1{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: auto;
+}
+
+.form-group{
+	font-family: Courier new, monospace;
+}
+
+h4, h2{
+	margin-left: 20px;
+	font-family: Courier new, monospace;
+	font-weight: bold;
+}
+
+.compte{
+	background-color: #BEE2FF;
+}
+
+.comptee{
+	background-color: #BEC5FF;
+}
+
+.login{
+	background-image:url(../images/log.jpg);
+	background-repeat:no-repeat;
+	background-size: 1550px 1000px;
+	color: white;
+}
+
+.accueil{
+	background-image:url(../images/accueil.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+
+.login2{
+	background-image:url(../images/log.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: new time roman;
+}
+
+.log2{
+	background: transparent;
+	border-radius:0px;
+	border:0px;
+	border-bottom: 2px solid lightblue;
+	font-size:21px;
+	margin-top:18px;
+	padding: 23px;
+	color:white;
+	margin-bottom: 20px;
+	
+}
+
+
+.logc2{
+	box-shadow: -1px 1px 50px 10px black;
+	border-radius: 50px 50px 50px 50px;
+	margin-top: 100px;
+	height: 340px;
+	background: rgba(0, 0, 0, 0.3);
+}
+
+.logb2{
+	font-size:21px;
+	width: 200px;
+	background: transparent;
+	display: block;
+  	margin : auto;
+}
+
+
+.loga2{
+	font-size:21px;
+	margin-top:20px;
+	height: 150px;
+	text-align: center;
+}
