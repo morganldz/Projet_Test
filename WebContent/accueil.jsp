@@ -29,39 +29,6 @@
 </head>
 <body class="accueil">
 
-	<nav class="navbar navbar-custom">
-		<ul class="nav navbar-nav">
-			<li><a href="ac">Accueil</a></li>
-			<li class="dropdown"><a href="#" class="dropdown-toggle"
-				data-toggle="dropdown" role="button" aria-haspopup="true"
-				aria-expanded="false">Clients<span class="caret"></span></a>
-				<ul class="dropdown-menu">
-					<li><a href="ajoutC.jsp">Ajouter un client</a></li>
-					<li><a href="listec">Liste des clients</a></li>
-				</ul></li>
-			<li class="dropdown"><a href="#" class="dropdown-toggle"
-				data-toggle="dropdown" role="button" aria-haspopup="true"
-				aria-expanded="false">Comptes courants<span class="caret"></span></a>
-				<ul class="dropdown-menu">
-					<li><a href="attrcc">Ajouter un compte courant</a></li>
-					<li><a href="listecc">Liste des comptes courants</a></li>
-					<li><a href="transc">Transactions</a></li>
-				</ul></li>
-			<li class="dropdown"><a href="#" class="dropdown-toggle"
-				data-toggle="dropdown" role="button" aria-haspopup="true"
-				aria-expanded="false">Comptes épargnes<span class="caret"></span></a>
-				<ul class="dropdown-menu">
-					<li><a href="attrce"></a>Ajouter un compte épargne</li>
-					<li><a href="listece">Liste des comptes épargnes</a></li>
-					<li><a href="transe">Transactions</a></li>
-				</ul></li>
-		</ul>
-		<ul class="nav navbar-nav navbar-right">
-			<li><a href="modifp">Parametres</a></li>
-			<li><a href="login.jsp">Deconnexion</a></li>
-		</ul>
-	</nav>
-
 	<h1>Bienvenue dans votre espace</h1>
 	<br/>
 	<br/>
